@@ -1,4 +1,4 @@
 import streamlit
-Streamlit.title('My Parents new Healthy Diner')
-Streamlit.header('Welcome ')
-Streamlit.text('Kate ')
+streamlit.title('My Parents new Healthy Diner')
+streamlit.header('Welcome ')
+streamlit.text('Kate ')
